@@ -17,7 +17,7 @@ version has not, namely:
    workspaces with numbers.
 
  + **dmenu runs at bottom and not at the top**: I hate having to look
-   to select an item from dmenu for launching that application.
+   up to select an item from dmenu for launching that application.
 
 Fortunately [i3](http://i3wm.org/docs/userguide.html) is configurable
 enough to set the wmii behaviors in place.
